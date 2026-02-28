@@ -84,7 +84,8 @@ Me chamo Gustavo Amaral, tenho 23 anos e sou natural do Pará. Atualmente, estou
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gustvoamaral&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
