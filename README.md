@@ -86,23 +86,10 @@ Me chamo Gustavo Amaral, tenho 22 anos e sou natural do Pará. Atualmente, estou
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustvoamaral&show_icons=true&theme=tokyonight&include_private_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustvoamaral&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustvoamaral&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustvoamaral/gustvoamaral/output/github-contribution-grid-snake-dark.svg">
