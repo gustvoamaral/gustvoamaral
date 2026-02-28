@@ -2,7 +2,7 @@
 # 👨🏻‍💻 Gustavo Amaral
 
 
-Me chamo Gustavo Amaral, tenho 22 anos e sou natural do Pará. Atualmente, estou cursando Engenharia da Computação na Universidade Federal do Sul e Sudeste do Pará.
+Me chamo Gustavo Amaral, tenho 23 anos e sou natural do Pará. Atualmente, estou cursando Engenharia da Computação na Universidade Federal do Sul e Sudeste do Pará.
 
 ---
 
@@ -96,3 +96,7 @@ Me chamo Gustavo Amaral, tenho 22 anos e sou natural do Pará. Atualmente, estou
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustvoamaral/gustvoamaral/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustvoamaral/gustvoamaral/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustvoamaral.gustvoamaral&left_color=black&right_color=black&left_text=Views"  />
+</div>
